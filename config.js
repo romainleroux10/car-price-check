@@ -5,7 +5,7 @@
 // 2. Tant que ces deux valeurs sont vides, le site fonctionne en mode démo et n'envoie rien.
 window.CPC_CONFIG = {
   supabaseUrl: 'https://vqvtxxmepsvncedvnwuw.supabase.co',
-  supabaseAnonKey: '',  // ex. 'eyJhbGciOiJIUzI1NiIs...'
+  supabaseAnonKey: 'sb_publishable_Um7bN0VzJWt04XmtxLRDag_IU3bndhk',
 
   // Marché de référence utilisé pour le calcul. Ce sont des EXEMPLES tant que les vraies factures ne sont pas analysées.
   market: {
