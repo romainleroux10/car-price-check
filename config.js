@@ -4,7 +4,7 @@
 //    Ne mettez JAMAIS ici la clé "service_role".
 // 2. Tant que ces deux valeurs sont vides, le site fonctionne en mode démo et n'envoie rien.
 window.CPC_CONFIG = {
-  supabaseUrl: '',      // ex. 'https://abcdefghijkl.supabase.co'
+  supabaseUrl: 'https://vqvtxxmepsvncedvnwuw.supabase.co',
   supabaseAnonKey: '',  // ex. 'eyJhbGciOiJIUzI1NiIs...'
 
   // Marché de référence utilisé pour le calcul. Ce sont des EXEMPLES tant que les vraies factures ne sont pas analysées.
