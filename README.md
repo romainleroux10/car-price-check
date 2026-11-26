@@ -66,6 +66,7 @@ Tant que `config.js` est vide, le site fonctionne en **mode démo** et n'envoie 
 - [ ] Remplacer les chiffres d'exemple du marché (`config.js > market`) par de vrais chiffres issus des factures, puis passer `source` à `'reel'` et retirer les mentions « Exemple illustratif ».
 - [ ] Faire valider `confidentialite.html` et les textes de consentement par le DPO, compléter les mentions légales (raison sociale, BCE, adresse, e-mail de contact).
 - [ ] Vérifier le statut FSMA avant de transmettre ou vendre des leads à des courtiers.
+- [ ] Justifier le « 3 000 € de moins » du bloc marques avec de vraies données (ou le calculer par visiteur), pour éviter une publicité trompeuse.
 - [ ] Obtenir l'accord des marques pour l'usage de leurs logos, ou les remplacer par leurs noms.
 - [ ] Remplacer les annonces d'exemple par de vraies annonces, ou les retirer.
 - [ ] Héberger les polices localement au lieu de Google Fonts.
